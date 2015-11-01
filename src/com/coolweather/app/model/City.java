@@ -33,7 +33,7 @@ public class City {
 	{
 		return provinceId;
 	}
-	public void setProvinceId()
+	public void setProvinceId(int provinceId)
 	{
 		this.provinceId=provinceId;
 	}
